@@ -1,4 +1,4 @@
-https://guides.emberjs.com/release/tutorial/part-1/more-about-components/
+https://guides.emberjs.com/release/tutorial/part-1/interactive-components/
 # super-rentals
 
 This README outlines the details of collaborating on this Ember application.
